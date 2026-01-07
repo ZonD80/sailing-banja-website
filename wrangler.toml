@@ -1,0 +1,9 @@
+name = "sailing-banja"
+compatibility_date = "2024-01-01"
+
+[env.production]
+name = "sailing-banja"
+routes = [
+  { pattern = "beharmony.life/*", zone_name = "beharmony.life" }
+]
+

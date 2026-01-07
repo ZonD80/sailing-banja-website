@@ -19,17 +19,12 @@ npm run generate
 
 # Cloudflare Pages expects the output in .output/public
 # Nuxt 3 generates static files in .output/public when using nuxt generate
-# For Cloudflare Pages, we need to use nuxt build which creates a serverless build
-# But for static sites, we can use nuxt generate
 
 echo "✅ Build complete!"
 echo ""
-echo "📋 Next steps:"
-echo "1. Connect your repository to Cloudflare Pages"
-echo "2. Set build command: npm run generate"
-echo "3. Set output directory: .output/public"
-echo "4. Set Node version: 18 or higher"
+echo "🚀 Deploying to Cloudflare Pages..."
+npx wrangler pages deploy .output/public --project-name=sailing-banja
+
 echo ""
-echo "Or use Wrangler CLI:"
-echo "  npx wrangler pages deploy .output/public --project-name=sailing-banja"
+echo "✅ Deployment complete!"
 

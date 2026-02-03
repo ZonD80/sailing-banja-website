@@ -28,8 +28,6 @@ Sauna broneerimine 1 tunniks /Sauna booking for 1 hour	100 €	100 €
 Дети до 15 лет /Lapsed kuni 15 a /Children up to 15 years	бесплатно при годовом взносе
 tasuta aastamaksuga
 free with annual fee	—
-Годовой взнос (член в 2025)/Aastamaks (liige 2025)
-Annual fee (member 2025)	36 €	—
 Годовой взнос (не был членом) /Aastamaks (ei olnud liige)
 Annual fee (not a member)	—	50 €
 

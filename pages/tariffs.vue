@@ -81,11 +81,6 @@
                 <td class="px-6 py-4">—</td>
               </tr>
               <tr class="hover:bg-sea-50">
-                <td class="px-6 py-4">{{ $t('tariffs.services.annualMember') }}</td>
-                <td class="px-6 py-4">36 €</td>
-                <td class="px-6 py-4">—</td>
-              </tr>
-              <tr class="hover:bg-sea-50">
                 <td class="px-6 py-4">{{ $t('tariffs.services.annualNonMember') }}</td>
                 <td class="px-6 py-4">—</td>
                 <td class="px-6 py-4">50 €</td>
